@@ -1,5 +1,6 @@
 fastapi==0.79.0
 uvicorn==0.18.2
 
-PyJWT==2.4.0
-python-decouple==3.6
+PyJWT
+bcrypt
+passlib
